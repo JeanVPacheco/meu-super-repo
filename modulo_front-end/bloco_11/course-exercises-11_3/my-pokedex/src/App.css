@@ -1,0 +1,13 @@
+.Pokecard {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  border: 1px black solid;
+  border-radius: 20px;
+  margin: 5px;
+  padding: 10px;
+}
+
+.Pokedex {
+  display: flex;
+}
