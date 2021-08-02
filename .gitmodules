@@ -1,0 +1,3 @@
+[submodule "modulo_front-end/exercise-pokedex-state"]
+	path = modulo_front-end/exercise-pokedex-state
+	url = https://github.com/tryber/exercise-pokedex-state
